@@ -7,6 +7,9 @@ using System.Web.Mvc;
 
 namespace PryectoMovieTheater.Controllers
 {
+    /// <summary>
+    /// //////
+    /// </summary>
     public class AdministradorwebController : Controller
     {
         // GET: Administradorweb
